@@ -11,10 +11,10 @@ If the redirect does not work, a clickable link is provided as a fallback.
 
 ---
 
-## 👤 About Aryan Techie
+## 👤 About Me
 - **CS Student, IIT Patna'28**
 - Designing tools and thoughts for an intentional life
-- Interests: self improvement, tech, AI, design, problem solving
+- Interests: self-improvement, tech, AI, design, problem solving
 
 ---
 
